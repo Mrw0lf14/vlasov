@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T18:20:00.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" version="24.0.7" etag="BmjXxIdZRNYpk2714W9E" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T18:31:53.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="b5TKWwcVWB8OvvglqDYq" version="24.0.7" type="github">
   <diagram name="Страница — 1" id="qBUdorHy0YkJTO8W9VMG">
-    <mxGraphModel>
+    <mxGraphModel dx="562" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-3" value="Авторизация" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-4" value="Сотрудники" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-5" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-7" value="Эксперт" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-8" value="Директор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-9" value="Инженер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-10" value="Зав. хоз." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-11" value="Сотрудник&lt;div&gt;отдела кадров&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-12" value="Модули управления" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="560" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-14" value="Компоненты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-16" value="Персонал" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-18" value="Инструменты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-20" value="Устройства" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="740" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-22" value="Документация" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-23" value="Функции" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="210" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-25" value="Управление пользователями и ролями" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="410" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-26" value="Общие функции" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="493.75" y="460" width="182.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-27" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-28" value="Обработка данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="540" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-30" value="Генерация документов в PDF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="610" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-32" value="Управление пользователями и ролями" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="710" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-33" value="Общие функции" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="493.75" y="760" width="182.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-35" value="Управление слотами, экземплярами и фреймами" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="840" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="880" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjJcRF5pblDHwdTbcPR7-37" value="Генерация ТП в PDF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="920" width="195" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
